@@ -1,4 +1,4 @@
-## Dynamic Feedback Coupling between SWAT (Rev_692_64) and Positive Multi-Attribute Utility Programming (PMAUP) Model
+## Dynamic Feedback Coupling between SWAT and Positive Multi-Attribute Utility Programming (PMAUP) Model
 
 SWAT-DF is a customized implementation of the SWAT that enables dynamic, interannual coupling with a microeconomic model (PMAUP). The framework introduces a two-way feedback mechanism between hydrological processes and land-use decisions.
 
