@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Rev_693_64debug_soclup", "Soc_LUP\Rev_693_64debug_soclup.vfproj", "{8749FA7A-1EC9-3834-324C-DAB37E6AC727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8749FA7A-1EC9-3834-324C-DAB37E6AC727}.Debug|x64.ActiveCfg = Debug|x64
+		{8749FA7A-1EC9-3834-324C-DAB37E6AC727}.Debug|x64.Build.0 = Debug|x64
+		{8749FA7A-1EC9-3834-324C-DAB37E6AC727}.Debug|x86.ActiveCfg = Debug|Win32
+		{8749FA7A-1EC9-3834-324C-DAB37E6AC727}.Debug|x86.Build.0 = Debug|Win32
+		{8749FA7A-1EC9-3834-324C-DAB37E6AC727}.Release|x64.ActiveCfg = Release|x64
+		{8749FA7A-1EC9-3834-324C-DAB37E6AC727}.Release|x64.Build.0 = Release|x64
+		{8749FA7A-1EC9-3834-324C-DAB37E6AC727}.Release|x86.ActiveCfg = Release|Win32
+		{8749FA7A-1EC9-3834-324C-DAB37E6AC727}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D9DE98-3B28-46AB-A867-0928350E5E34}
+	EndGlobalSection
+EndGlobal
