@@ -28,9 +28,9 @@ LupInput50 – 50% water reduction
 
 LupInput100 – 100% water restriction
 
-#####
-The repository will continue to be updated with improvements, additional examples, and extended documentation as the framework evolves.
-
 Each file contains the simulated land-use configuration (crop portfolio) associated with the corresponding WR scenario. These outputs are translated into HRU-level fractional areas (hru_fr) and are read dynamically by SWAT-DF at each annual coupling step.
 
 During simulation, SWAT evaluates reservoir storage conditions and determines the applicable WR level. The corresponding PMAUP output file is then accessed and used to update HRU land-use fractions before the next hydrological year begins. This mechanism enables the endogenous adjustment of crop allocation and irrigation demand in response to evolving water availability.
+
+#####
+The repository will continue to be updated with improvements, additional examples, and extended documentation as the framework evolves.
